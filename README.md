@@ -1,1 +1,1 @@
-# Customer-Churn-Using-Deep-Learning
+# Customer Churn Using Deep Learning
